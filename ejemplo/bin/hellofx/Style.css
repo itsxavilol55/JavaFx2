@@ -1,0 +1,16 @@
+#mainPanel {
+  -fx-background: linear-gradient(to left, #7a7, #9a9);
+  -fx-padding: 1mm;
+  -fx-spacing: 5mm;
+}
+.label {
+  -fx-font-size: 5mm;
+  -fx-padding: 1mm;
+}
+#input1 {
+}
+.boton {
+  -fx-background-color: rgba(72, 197, 232, 0.15);
+  -fx-font-size: 4mm;
+  -fx-border-radius: 5;
+}

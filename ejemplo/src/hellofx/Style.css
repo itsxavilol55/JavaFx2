@@ -1,0 +1,20 @@
+#mainPanel {
+  -fx-background: linear-gradient(to left, #7a7, #9a9);
+  -fx-padding: 1mm;
+  -fx-spacing: 7mm;
+  -fx-alignment: center;
+}
+Label {
+  -fx-font-size: 6mm;
+}
+#input1 {
+}
+.boton {
+  -fx-background-color: rgba(72, 197, 232, 0.15);
+  -fx-font-size: 5mm;
+}
+HBox {
+  -fx-background-color: linear-gradient(to left, #0f1, #5ca);
+  -fx-spacing: 10mm;
+  -fx-alignment: center-left;
+}
